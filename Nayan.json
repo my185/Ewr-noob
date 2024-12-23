@@ -1,5 +1,5 @@
 {
-  "author": "Nayan",
+  "author": "beby",
   "autoRestart": true,
   "accpetPending": false,
   "developermode": false,
@@ -9,7 +9,7 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "BEBY",
+  "BOTNAME": "Bby",
   "PREFIX": "!",
   "OPERATOR": [
     "61562049005888",
@@ -19,7 +19,7 @@
     "61566533590967",
     ""
   ],
-  "OWNER": ["100000959749712"], 
+  "OWNER": ["61566533590967"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
